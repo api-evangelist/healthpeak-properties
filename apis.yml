@@ -46,7 +46,7 @@ tags:
   - Fortune 1000
 apis: []
 common:
-  - type: SignUp
+  - type: Signup
     url: https://www.healthpeak.com/contact-us/
   - type: ContactForm
     url: https://www.healthpeak.com/contact-us/
