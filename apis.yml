@@ -28,6 +28,17 @@ description: |
   room. Tenant-facing operational systems (work orders, building access,
   energy reporting) are not exposed externally.
 url: https://www.healthpeak.com
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.healthpeak.com/favicon.ico
 created: '2024-03-01'
 modified: '2026-05-23'
