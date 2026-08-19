@@ -42,7 +42,7 @@ accessModel:
 image: https://www.healthpeak.com/favicon.ico
 created: '2024-03-01'
 modified: '2026-05-23'
-specificationVersion: '0.16'
+specificationVersion: '0.23'
 tags:
   - Real Estate
   - REIT
