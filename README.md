@@ -64,43 +64,69 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-API Evangelist network profile for **Healthpeak Properties, Inc.** — an S&P 500
-healthcare real estate investment trust (REIT) listed on the NYSE as **DOC**,
-operating roughly 700 properties across lab/life-sciences, outpatient medical,
-and continuing care retirement community (CCRC) senior housing segments.
+Healthpeak Properties (NYSE: DOC) is an S&P 500 healthcare real estate investment trust (REIT) that owns, operates, and develops real estate for healthcare discovery and outpatient care — concentrated in lab/life-sciences, outpatient medical, and continuing care retirement community (CCRC) senior housing segments. The company tagline is "Where Discovery and Outpatient Care Thrive." Originally founded as HCP Inc. in 1985, the company rebranded to Healthpeak Properties in 2019. On March 1, 2024, Healthpeak completed an all-stock merger of equals with Physicians Realty Trust, combining two of the largest outpatient medical real estate platforms in the United States and adopting the new NYSE ticker DOC (previously PEAK). Healthpeak's portfolio spans roughly 700 properties nationwide, with lab concentrations in the South San Francisco, Boston, and San Diego clusters (including Torrey Pines Science Park and The Cove at Oyster Point) and outpatient medical assets clustered on or near top-ranked hospital campuses such as Medical City Dallas. The company reports that approximately 150,000 scientists, researchers, physicians, and healthcare professionals work in its buildings. As a healthcare REIT, Healthpeak does not publish a public developer API, SDK, OpenAPI specification, or technical integration surface. Its public digital footprint is limited to corporate marketing, an investor relations site, SEC filings, ESG/sustainability reporting, and a press room. Tenant-facing operational systems (work orders, building access, energy reporting) are not exposed externally.
 
-> "Where Discovery and Outpatient Care Thrive" — healthpeak.com
+**Areas:** Real Estate · REIT · Healthcare · Life Sciences · Lab Real Estate · Outpatient Medical · Senior Housing · Medical Office · S And P 500 · NYSE · Fortune 1000
 
-- Website: https://www.healthpeak.com
-- Investor relations: https://ir.healthpeak.com/overview
-- Press room: https://ir.healthpeak.com/press-room
-- Portfolio: https://healthpeak.com/properties
-- Sustainability / corporate impact: https://healthpeak.com/corporate-impact/
-- NYSE ticker: **DOC** (previously **PEAK**, and earlier **HCP**)
-- Fortune 1000 rank: 998
+## Healthpeak Properties on APIs.io
 
-## Key corporate events
+Everything profiled for Healthpeak Properties is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/healthpeak-properties/](https://apis.io/providers/healthpeak-properties/)** — or go straight to one of the APIs or properties below.
 
-- **2024-03-01** — Completed all-stock merger of equals with **Physicians
-  Realty Trust** (previously NYSE: DOC). The combined company retained the
-  Healthpeak Properties name and adopted the **DOC** ticker, creating one of
-  the largest outpatient medical real estate platforms in the U.S.
-- **2019** — Rebranded from **HCP Inc. (HCP)** to **Healthpeak Properties
-  (PEAK)** to reflect the healthcare discovery and delivery focus.
-- **1985** — Founded as Health Care Properties (HCP Inc.).
+## Where to find this API
 
-## API surface
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-Healthpeak Properties is a real estate investment trust and does **not**
-publish a public developer API, SDK, OpenAPI specification, Postman
-collection, or technical integration surface. Tenant-facing operational
-systems (work orders, building access, energy reporting) are not exposed
-externally.
+- [Website](https://www.healthpeak.com/)
 
-This repository therefore documents Healthpeak's corporate, investor,
-sustainability, and portfolio surfaces — not a developer platform.
+## API Evangelist rating
 
-## Files
+**Kin Score 6.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-- [`apis.yml`](apis.yml) — APIs.json network record with common properties,
-  corporate event timeline (merger, rebrand), and zero API surfaces.
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/healthpeak-properties/](https://apis.io/providers/healthpeak-properties/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Healthpeak Properties: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/healthpeak-properties/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
